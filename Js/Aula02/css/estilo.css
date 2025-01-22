@@ -1,0 +1,17 @@
+section {
+    max-width: 85%;
+    margin: auto;
+}
+
+.destacado {
+    color: #f00;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+colored-div {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid black;
+  }
